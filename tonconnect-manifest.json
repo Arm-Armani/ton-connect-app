@@ -1,0 +1,21 @@
+{
+    "url": "https://7c82-91-103-29-5.ngrok-free.app",
+    "name": "TON Wallet",
+    "iconUrl": "https://7c82-91-103-29-5.ngrok-free.app/ton.png",
+    "termsOfUseUrl": "/terms.html",
+    "privacyPolicyUrl": "/privacy.html",
+    "description": "TON Wallet Application",
+  
+    "manifestVersion": "0.4",
+    "parameters": {
+      "tonstorage": {
+        "order": 1
+      },
+      "tonapi": {
+        "order": 2
+      }
+    },
+    "capabilities": [
+      "ton_addr"
+    ]
+  } 
