@@ -1,9 +1,9 @@
 {
-    "url": "https://7c82-91-103-29-5.ngrok-free.app",
+    "url": "https://sfera-project.digital/",
     "name": "TON Wallet",
-    "iconUrl": "https://7c82-91-103-29-5.ngrok-free.app/ton.png",
-    "termsOfUseUrl": "/terms.html",
-    "privacyPolicyUrl": "/privacy.html",
+    "iconUrl": "https://sfera-project.digital/ton.png",
+    "termsOfUseUrl": "https://sfera-project.digital/terms.html",
+    "privacyPolicyUrl": "https://sfera-project.digital/privacy.html",
     "description": "TON Wallet Application",
   
     "manifestVersion": "0.4",
